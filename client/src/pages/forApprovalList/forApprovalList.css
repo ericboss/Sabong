@@ -1,0 +1,70 @@
+.forApprovalList {
+    flex: 4;
+  }
+  
+  .forApprovalListUser {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .userTitleContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  
+  .forApprovalListImg {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px;
+  }
+  
+  .forApprovalListEdit{
+      border: none;
+      border-radius: 10px;
+      padding: 5px 10px;
+      background-color: #3bb077;
+      color: white;
+      cursor: pointer;
+      margin-right: 20px;
+  }
+  
+  .forApprovalListDelete{
+      color: red;
+      cursor: pointer;
+  }
+  .contactOne{
+     
+    display: flex;
+    align-items: center;
+      
+  }
+  .contactTwo{
+     
+    display: flex;
+    align-items: center;
+    margin-left: 80px;
+
+    
+      
+  }
+  .forApprovalId{
+     
+  }
+  .forApprovalListStatus{
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+    background-color: #3bb077;
+    color: white;
+    cursor: pointer;
+    margin-right: 20px;
+    margin-left: 5px;
+    width: 55px;
+    height: 25px;
+
+  
+  }

@@ -1,0 +1,176 @@
+.agent {
+    flex: 4;
+    padding: 20px;
+  }
+  
+  .agentTitleContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .agentAddButton {
+    width: 80px;
+    border: none;
+    padding: 5px;
+    background-color: teal;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .agentTop {
+    display: flex;
+  }
+  
+  .agentTopLeft,
+  .agentTopRight {
+    flex: 1;
+  }
+  
+  .agentTopRight {
+    padding: 20px;
+    margin: 20px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  }
+  
+  .agentInfoImg {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+  }
+  
+  .agentInfoTop {
+    display: flex;
+    align-items: center;
+  }
+  
+  .agentName {
+    font-weight: 600;
+  }
+  
+  .agentInfoBottom {
+    margin-top: 10px;
+  }
+  
+  .agentInfoItem {
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .agentInfoValue {
+    font-weight: 300;
+  }
+  
+  .agentBottom {
+    padding: 20px;
+    margin: 20px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  }
+  
+  
+
+
+
+
+
+  .agent {
+    flex: 4;
+    padding: 20px;
+  }
+  
+  .agentTitleContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .agentAddButton {
+    width: 80px;
+    border: none;
+    padding: 5px;
+    background-color: teal;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-size: 16px;
+  }
+  
+  .agentContainer {
+    display: flex;
+    margin-top: 20px;
+  }
+  
+  .agentShow {
+    flex: 1;
+    padding: 20px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  }
+  
+  .agentUpdate {
+    flex: 2;
+    padding: 20px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    margin-left: 20px;
+  }
+  
+  .agentShowTop {
+    display: flex;
+    align-items: center;
+  }
+  
+  .agentShowImg {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .agentShowTopTitle {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+  }
+  
+  .agentShowUsername {
+    font-weight: 600;
+  }
+  
+  .agentShowUserTitle {
+    font-weight: 300;
+  }
+  
+  .agentShowBottom{
+      margin-top: 20px;
+  }
+  
+  .agentShowTitle {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(175, 170, 170);
+  }
+  
+  .agentShowInfo{
+      display: flex;
+      align-items: center;
+      margin: 20px 0px;
+      color: #444;
+  }
+  
+  .agentShowIcon{
+      font-size: 16px !important;
+  }
+  
+  .agentShowInfoTitle{
+      margin-left: 10px;
+  }
+  
+ 
